@@ -1,0 +1,16 @@
+{
+  "name": "@company-portfolio/database",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "types": "index.ts",
+  "dependencies": {
+    "@company-portfolio/shared": "*",
+    "fs-extra": "^11.2.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/uuid": "^9.0.7",
+    "typescript": "^5"
+  }
+}
